@@ -20,5 +20,31 @@ Choose wisely!
 3. Open a terminal or command prompt.
 4. Run the game using:
 
+## 🧠 Example
+Welcome to Treasure Island.
+Your mission is to find the treasure.
+You're at a crossroad, where do you want to go? Type "left" or "right".
+> left
+You've come to a lake...
+
+## 💡 Features
+-ASCII art intro for a classic adventure game vibe
+-Input-based branching story logic
+-Replayable with multiple paths and outcomes
+-Simple and beginner-friendly Python code
+
+## 📄 License
+Feel free to use and modify this project for personal or educational purposes.
+
+
+---
+
+Let me know if you want a version with more advanced features like score tracking, sound effects, or GUI elements!
+
 ```bash
-python treasure_island.py
+python treasure_island.py 
+
+
+
+
+
